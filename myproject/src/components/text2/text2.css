@@ -1,0 +1,35 @@
+.ttt2{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.ttt2 h1{
+    font-size: 55px;
+
+}
+.ttt2 p{
+    font-size: 23px;
+    color: gray;
+}
+
+@media(min-width:520px)and (max-width:830px){
+    .ttt2{
+        width: 80%;
+        margin: auto;
+    }
+}
+@media(min-width:300px) and (max-width:520px){
+    .ttt2{
+        width: 80%;
+        margin: auto;
+    }
+    .ttt2 h1{
+    font-size: 30px;
+
+}
+.ttt2 p{
+    font-size: 18px;
+    color: gray;
+}
+
+}

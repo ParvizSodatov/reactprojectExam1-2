@@ -1,0 +1,16 @@
+.white{
+    color: #211F54;
+    border: 1px solid #EFF0F6;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+
+
+@media(min-width:520px)and (max-width:830px){
+
+}
+
+@media(min-width:300px) and (max-width:520px){
+
+}

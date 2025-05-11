@@ -1,0 +1,40 @@
+.divtext{
+    /* border: 1px solid red; */
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+.how{
+    font-size: 50px;
+
+}
+.Sagittis{
+    font-size: 25px;
+    color: gray;
+    line-height: 40px;
+}
+
+@media(min-width:300px) and (max-width:520px){
+.divtext{
+    width: 80%;
+}
+.how{
+    font-size: 25px;
+}
+.Sagittis{
+    font-size: 18px;
+}
+
+
+}
+@media(min-width:520px)and (max-width:830px){
+.divtext{
+    width: 80%;
+   
+}
+
+
+
+
+}
